@@ -1,0 +1,9 @@
+﻿<settings>
+  <host>127.0.0.1</host>
+  <port>4421</port>
+  <cookies>
+    <cookie id="Шоколадное" price="10" />
+    <cookie id="Овсяное" price="2" />
+    <cookie id="Курабье" price="35" />
+  </cookies>
+</settings>
