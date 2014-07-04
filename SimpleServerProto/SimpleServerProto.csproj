@@ -41,7 +41,6 @@
   <ItemGroup>
     <Compile Include="Commands\RequestAuthorization.cs" />
     <Compile Include="Commands\RequestBuyCookie.cs" />
-    <Compile Include="Commands\RequestUserInfo.cs" />
     <Compile Include="Commands\ResponseAuthorization.cs" />
     <Compile Include="Commands\ResponseBuyCookie.cs" />
     <Compile Include="Commands\ResponseCookieList.cs" />
